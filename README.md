@@ -1,4 +1,4 @@
-# BillingZone
+# Billing Zone
 BillingZone is an intuitive invoice generator built with React, designed to streamline the process of 
 creating and managing invoices. This project is tailored for freelancers, small business owners, and
 anyone who needs a simple yet effective way to generate professional invoices.
